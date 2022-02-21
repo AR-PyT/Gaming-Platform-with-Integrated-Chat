@@ -10,5 +10,6 @@ Voice and Video Chat still laggy
 
 Running:
 
+Change the IP of the config.py file to the ip of server
 Start the main-server file
 Use client-main to run the client side code
